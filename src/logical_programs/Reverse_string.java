@@ -1,7 +1,7 @@
 package logical_programs;
 
 public class Reverse_string {
-
+  public static method
 	public static void main(String[] args) {
 		
 		String Str = "MOHINI_MISAR";
